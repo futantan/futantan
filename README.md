@@ -29,7 +29,7 @@ const skills = {
 
 - Designed reusable component system reducing technical debt by 40%
 - Led migration from Svelte to React, improving development efficiency by 30%
-- Developed Think Chrome Extension with 8,000+ installations
+- Developed Tlink Chrome Extension with 8,000+ installations
 
 ### DingDoc Smart Table
 
