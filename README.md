@@ -2,7 +2,7 @@
 
 👋🏻 hi there! I'm Tantan Fu, a Senior Frontend Engineer with 8 years of experience specializing in high-performance web applications and modern frontend architectures. I have a proven track record of leading and delivering large-scale frontend projects at Smart Token Labs, Alibaba, and ThoughtWorks.
 
-I'm passionate about React, Next.js, TypeScript, functional programming, and performance optimization. As an active open-source contributor, my projects have earned 6,500+ GitHub stars.
+I'm passionate about React, Next.js, TypeScript, functional programming, and performance optimization. As an active open-source contributor, my projects have earned 4,500+ GitHub stars.
 
 I hold both a Master’s and a Bachelor’s degree in Computer Science from UESTC, equipping me with strong architectural design skills and deep technical expertise.
 
